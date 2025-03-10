@@ -84,7 +84,7 @@ jobs:
               with:
                   tagName: '555yingshi'
                   releaseName: '555yingshi v__VERSION__'
-                  releaseBody: '杨琴专属'
+                  releaseBody: ''
                   releaseDraft: false
                   prerelease: false
                   publish: true
